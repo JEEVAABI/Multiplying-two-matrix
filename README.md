@@ -40,7 +40,7 @@ print("Product of two arrays is:",arr)
 ```
 
 ## OUTPUT:
-![output](mulmat.png)
+![output](multty.png)
 
 ## RESULT:
 Thus the multiplication of matrix is done

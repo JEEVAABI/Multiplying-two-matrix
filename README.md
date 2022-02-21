@@ -43,5 +43,5 @@ print("Product of two arrays is:",arr)
 ![output](multty.png)
 
 ## RESULT:
-Thus the multiplication of matrix is done
+Thus the program is written to perform  Multiplying two matrices using python programming.
 
